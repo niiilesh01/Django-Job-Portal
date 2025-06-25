@@ -1,4 +1,4 @@
-# Django Recruit
+# Django Job Portal
 A Recruitment project built with Django
 
 
